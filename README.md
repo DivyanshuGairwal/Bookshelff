@@ -1,7 +1,7 @@
 # 📚 Bookshelf – Book Discovery Web App
 
 A clean, modern web application for discovering books using the **Google Books API**.  
-Built to explore UI design, API integration, and responsive layouts.
+Built to explore UI design, API integration, and responsive layouts.   
 
 
 
